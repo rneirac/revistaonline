@@ -1,0 +1,21 @@
+//ARCHIVO CONTENEDOR MANIFIESTO SASS
+
+//COMPONENTES ABSTRACTS
+@import "abstracts/variables";
+
+
+//COMPONENTES BASE
+@import "base/base";
+@import "base/reset";
+
+
+//COMPONENTES LAYOUT
+@import "layout/grid";
+@import "layout/navbar";
+@import "layout/main";
+@import "layout/leftlist";
+@import "layout/newsletter";
+@import "layout/footer";
+@import "layout/rightaside";
+
+
